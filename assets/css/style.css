@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -133,8 +133,8 @@ Version: 1.0.0
 /*------------------- 1.3. Variable-------------------*/
 /*------------------- 1.5. Typography -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -527,8 +527,8 @@ span {
 /*------------------- 1.6. Extend -------------------*/
 /*------------------- 1.7. Wordpress Default -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -1427,8 +1427,8 @@ ul.wp-block-rss a {
 ==================================*/
 /*------------------- 2.1. Container -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -1591,8 +1591,8 @@ Version: 1.0.0
 
 /*------------------- 2.2. Grid -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -1755,8 +1755,8 @@ Version: 1.0.0
 }
 /*------------------- 2.3. Input -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -2359,8 +2359,8 @@ textarea.is-invalid {
 
 /*------------------- 2.4. Slick Slider -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -2651,8 +2651,8 @@ Version: 1.0.0
 }
 /*------------------- 2.5. Mobile Menu -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -3132,8 +3132,8 @@ Version: 1.0.0
 }
 /*------------------- 3.2. Buttons -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -3276,8 +3276,8 @@ Version: 1.0.0
 }
 .th-btn.btn-mask {
   border-radius: 0;
-  -webkit-mask-image: url(../img/theme-img/btn-shape.png);
-          mask-image: url(../img/theme-img/btn-shape.png);
+  -webkit-mask-image: url(https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/btn-shape.png);
+          mask-image: url(https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/btn-shape.png);
   -webkit-mask-size: 100% 100%;
           mask-size: 100% 100%;
   -webkit-transition: 1s ease;
@@ -3695,8 +3695,8 @@ Version: 1.0.0
 
 /*------------------- 3.3. Titles -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -4068,8 +4068,8 @@ hr.title-line {
 }
 /*------------------- 3.4. Common -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -4454,8 +4454,8 @@ Version: 1.0.0
 
 /*------------------- 3.7. Background -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -5506,7 +5506,7 @@ a.text-theme:hover,
   height: 1px;
   width: 1px;
   position: absolute;
-  background: url(../img/shape/star.svg) no-repeat center center;
+  background: url(https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/star.svg) no-repeat center center;
   background-size: cover;
   border-radius: 50%;
   -webkit-transform: translateX(-50%);
@@ -5944,8 +5944,8 @@ a.text-theme:hover,
 ==================================*/
 /*------------------- 4.1. Widget  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -6208,8 +6208,8 @@ Version: 1.0.0
 }
 
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -7356,8 +7356,8 @@ ol.wp-block-rss {
   }
 }
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -7678,8 +7678,8 @@ Version: 1.0.0
 }
 /*------------------- 4.2. Header  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -8514,8 +8514,8 @@ Version: 1.0.0
 
 /*------------------- 4.3. Footer  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -9404,8 +9404,8 @@ Version: 1.0.0
 
 /*------------------- 4.4. Breadcumb  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -9704,8 +9704,8 @@ Version: 1.0.0
 }
 /*------------------- 4.5. Pagination  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -9902,8 +9902,8 @@ Version: 1.0.0
 }
 /*------------------- 4.6. Blog  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -10595,8 +10595,8 @@ blockquote.has-very-dark-gray-color {
 }
 /*------------------- 4.7. Comments  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -10980,8 +10980,8 @@ ul.comment-list .th-comment-item:has(.children) .th-post-comment {
 }
 /*------------------- 4.8. Hero Area  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -12138,8 +12138,8 @@ Version: 1.0.0
 
 /*------------------- 4.9. Error  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -12267,8 +12267,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Popup Search  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -12483,8 +12483,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Popup Side Menu  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -12678,8 +12678,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Wocommerce  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -13209,8 +13209,8 @@ table.woocommerce-product-attributes {
 }
 /*------------------- 4.00. Products  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -14533,8 +14533,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Cart  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -14924,8 +14924,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Checkout  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -15221,8 +15221,8 @@ span.select2-selection.select2-selection--single:focus {
 
 /*------------------- 4.00. Wishlist  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -15554,8 +15554,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. MegaMenu -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -15924,8 +15924,8 @@ Version: 1.0.0
 /*Mega menu area end*********************/
 /*------------------- 4.00. Contact  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -16255,8 +16255,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. About  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -16612,8 +16612,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Team  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -17053,8 +17053,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Opening- Hour  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -17264,8 +17264,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Food  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -17523,8 +17523,8 @@ Version: 1.0.0
   inset: 0;
   opacity: 0;
   background-color: var(--theme-color2);
-  -webkit-mask-image: url("../img/bg/menu-1-msk-bg.png");
-          mask-image: url("../img/bg/menu-1-msk-bg.png");
+  -webkit-mask-image: url("https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/menu-1-msk-bg.png");
+          mask-image: url("https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/menu-1-msk-bg.png");
   -webkit-mask-size: 100% 100%;
           mask-size: 100% 100%;
   -webkit-transition: 0.4s ease;
@@ -17590,8 +17590,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. History  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -17775,8 +17775,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Menu  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -18190,8 +18190,8 @@ Version: 1.0.0
 /*------------------- 4.00. Menu  -------------------*/
 /*------------------- 4.00. Order Online  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -18399,8 +18399,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Coming  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -18717,8 +18717,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Testimonial  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -19192,8 +19192,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Counter  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -19452,8 +19452,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Blog  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -19655,8 +19655,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Brand  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -19933,8 +19933,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Simple Sections  -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -20078,7 +20078,7 @@ Version: 1.0.0
   position: relative;
 }
 .checklist.style2 li:before {
-  content: url(../img/icon/dumbbell_icon.svg);
+  content: url(https://wordpress.themehour.net/barab/wp-content/uploads/2025/07/dumbbell_icon.svg);
   position: relative;
   line-height: 1;
 }
@@ -20320,8 +20320,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Why -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -20505,8 +20505,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Faq -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -20785,8 +20785,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Service -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -21639,8 +21639,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Process -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -21900,8 +21900,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Pricing -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -22262,8 +22262,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Feature -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -22460,8 +22460,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Project -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -23023,8 +23023,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Category -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -23422,8 +23422,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. CTA -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -23624,8 +23624,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. CTA -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -23798,8 +23798,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Color Scheme -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -23944,8 +23944,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Appointment -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24050,8 +24050,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Video -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24198,8 +24198,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Client -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24310,8 +24310,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Instragram -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24572,8 +24572,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Restaurant Location -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24746,8 +24746,8 @@ Version: 1.0.0
 }
 /*------------------- 4.00. Tab Menu -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -24854,8 +24854,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Schedule -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -25029,8 +25029,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. BMI -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -25241,8 +25241,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Marquee -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -25438,8 +25438,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Class -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -25718,8 +25718,8 @@ Version: 1.0.0
 
 /*------------------- 4.00. Gallery -------------------*/
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -26468,8 +26468,8 @@ Version: 1.0.0
 }
 
 /*
-Template Name: Barab
-Template URL: https://themeholy.com/html/barab/
+Template Name: Bakara
+Template URL: https://themeholy.com/html/Bakara/
 Description: Restaurant & Fast Food HTML Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
@@ -26630,3 +26630,6 @@ Version: 1.0.0
         width: 150px !important;
     }
 }
+
+
+
